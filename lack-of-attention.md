@@ -11,11 +11,15 @@ To understand why this has happened, we must look to the source of innovation. I
 
 The space race during the Cold War drove innovation. We had a clear objective and aligned minds and resources behind it. That attention brought the human race into a different classification of species — we became space-faring.
 
+---
+
 What do we focus on today? There hasn’t been a major species-wide objective since space. There is one glaring answer, and you’re paying attention to it now.
 
 The internet is the largest attention sink the world has ever seen. Even the investment community is enamored with web businesses and it’s easy to see why. The five largest companies in the world all are built off the success of the internet. Stories like Zuckerburg’s are alive in the dreams of every startup founder and VC manager. But with so much attention paid to the internet, other technologies are being neglected.
 
 We need objectives outside the world wide web. We need to focus attention on our biggest problems and seek monumental technological advancement as solutions. Let’s plant in the minds of aspiring scientists and engineers a future as optimistic and bold as we can imagine.
+
+---
 
 
 
