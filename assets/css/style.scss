@@ -11,12 +11,13 @@ h1{margin-bottom:30px;line-height:1.25;}
 hr{padding:20px 0;}
 
 footer p{font-size:1rem;}
+img{border:none;-webkit-box-shadow:none;box-shadow:none;margin:0;}
 a, footer a{color:#00BCD4;}
 a:hover, a:active, footer a:hover, footer a:active{color:#00ACC1;}
 
 
 .flex-container{display: flex;}
 .logo-box{padding:20px 0 10px 0;text-align:center;}
-.logo-box img{width:60px;border:none;-webkit-box-shadow:none;box-shadow:none;}
+.logo-box img{width:60px;}
 
 .w-100{width:100%;}
