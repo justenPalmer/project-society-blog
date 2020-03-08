@@ -19,7 +19,5 @@ The internet is the largest attention sink the world has ever seen. Even the inv
 
 We need objectives outside the world wide web. We need to focus attention on our biggest problems and seek monumental technological advancement as solutions. Let’s plant in the minds of aspiring scientists and engineers a future as optimistic and bold as we can imagine.
 
----
-
 
 
