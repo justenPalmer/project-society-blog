@@ -1,8 +1,10 @@
 # Lack of Attention - The Innovation Killer
 
-Innovation is broken. I’m not talking about incremental technological improvements. Room-sized supercomputers have been miniaturized into our pockets — but the transistor is still the core technology. I'm not the only one talking about this, some of the most prominent investors in technology share this opinion [1](https://foundersfund.com/the-future/) [2](https://www.nationalreview.com/2011/10/end-future-peter-thiel/).
+Innovation is broken. Don't believe me? Some of the most prominent investors in technology share this opinion [[1]](https://foundersfund.com/the-future/) [[2]](https://www.nationalreview.com/2011/10/end-future-peter-thiel/).
 
-Transformative technological advancement has been stalled for over 40 years. The last major technological breakthrough in the kitchen was the microwave — and that was released to the public in the 1950s. We’re still heating with electrical resistors, flying through the air with jet turbines, and moving our goods with combustion engines.
+I’m not talking about incremental technological improvements. Room-sized supercomputers have been miniaturized into our pockets — but the transistor is still the core technology.
+
+Transformative technological advancement has been stalled for over 40 years. The last major technological breakthrough in the kitchen was the microwave — and that was released to the public in the 1950s. We’re still heating with electrical resistors, flying through the air with jet turbines, and moving our goods with combustion engines. 
 
 > “We wanted flying cars, instead we got 140 characters.”
 > — Peter Thiel
